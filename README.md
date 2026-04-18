@@ -3,20 +3,20 @@
 ## End-to-end Sales Data Analysis project demonstrating EDA, visualization, and business insight generation using Python.
 <img width="2550" height="1650" alt="image" src="https://github.com/user-attachments/assets/8e916f06-91c0-417f-a173-77bba9aba815" />
 
-🚀 Overview
+### 🚀 Overview
 
 This project focuses on analyzing sales data to extract meaningful business insights using Python. It helps in understanding trends, identifying top-performing products, and making data-driven decisions.
 
 The analysis is performed on a real-world dataset (AusApparalSales4thQrt2020.csv) using a Jupyter Notebook.
 
-🎯 Objectives
+### 🎯 Objectives
 
 - Analyze sales performance over time
 - Identify top-selling products and regions
 - Understand revenue patterns and trends
 - Generate actionable insights for business growth
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - Python
 - Jupyter Notebook
@@ -24,7 +24,7 @@ The analysis is performed on a real-world dataset (AusApparalSales4thQrt2020.csv
 - NumPy – Numerical operations
 - Matplotlib / Seaborn – Data visualization
 
-🔍 Project Workflow
+### 🔍 Project Workflow
 
 1️⃣ Data Collection
 - Imported dataset using Pandas
@@ -43,7 +43,7 @@ The analysis is performed on a real-world dataset (AusApparalSales4thQrt2020.csv
 5️⃣ Insight Generation
 - Extracted actionable business insights
 
-🔍 Key Analysis Performed
+### 🔍 Key Analysis Performed
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -51,7 +51,7 @@ The analysis is performed on a real-world dataset (AusApparalSales4thQrt2020.csv
 - Category-wise and region-wise analysis
 - Revenue insights
 
-📈 Sample Insights
+### 📈 Sample Insights
 
 - Identified highest revenue-generating States
 - Found peak sales periods
@@ -59,7 +59,7 @@ The analysis is performed on a real-world dataset (AusApparalSales4thQrt2020.csv
 - Detected patterns that can improve business strategy
 - Identified groups with highest and lowest sales
 
-📊 Visualizations
+### 📊 Visualizations
 
 <img width="1457" height="822" alt="image" src="https://github.com/user-attachments/assets/711abf51-e079-4434-86e9-da43bdfc9a22" />
 
