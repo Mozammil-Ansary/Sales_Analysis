@@ -60,3 +60,16 @@ The analysis is performed on a real-world dataset (AusApparalSales4thQrt2020.csv
 - Bar charts (category performance)
 - Heatmaps (correlation analysis)
 - Scatter plots 
+
+🙋‍♂️ Author
+
+MD Mozammil Ansary
+
+B.Tech in Instrumentation & Control Engineering
+Aspiring ML Engineer & Data Scientist
+⭐ Support
+If you found this project useful:
+
+⭐ Star this repository
+🍴 Fork it
+📢 Share with others
