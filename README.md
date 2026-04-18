@@ -3,7 +3,7 @@
 ## End-to-end Sales Data Analysis project demonstrating EDA, visualization, and business insight generation using Python.
 <img width="2550" height="1650" alt="image" src="https://github.com/user-attachments/assets/8e916f06-91c0-417f-a173-77bba9aba815" />
 
-🚀 ## Overview
+🚀 Overview
 
 This project focuses on analyzing sales data to extract meaningful business insights using Python. It helps in understanding trends, identifying top-performing products, and making data-driven decisions.
 
