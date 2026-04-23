@@ -28,18 +28,22 @@ The analysis is performed on a real-world dataset (AusApparalSales4thQrt2020.csv
 
 1️⃣ Data Collection
 - Imported dataset using Pandas
+
 2️⃣ Data Cleaning
 - Handled missing values
 - Checked data types
 - Removed inconsistencies
+
 3️⃣ Exploratory Data Analysis (EDA)
 - Sales distribution analysis
 - Category-wise breakdown
 - Region-wise comparison
+
 4️⃣ Data Visualization
 - Trend analysis using line plots
 - Category comparison using bar charts
 - Correlation insights using heatmaps
+
 5️⃣ Insight Generation
 - Extracted actionable business insights
 
