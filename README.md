@@ -1,6 +1,6 @@
 # Sales_Analysis Data Science Project
 
-## End-to-end Sales Data Analysis project demonstrating EDA, visualization, and business insight generation using Python.
+**End-to-end Sales Data Analysis project demonstrating EDA, visualization, and business insight generation using Python.**
 <img width="2550" height="1650" alt="image" src="https://github.com/user-attachments/assets/8e916f06-91c0-417f-a173-77bba9aba815" />
 
 ### 🚀 Overview
