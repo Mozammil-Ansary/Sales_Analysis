@@ -86,3 +86,5 @@ If you found this project useful:
 ⭐ Star this repository
 🍴 Fork it
 📢 Share with others
+
+🚀 How to Run the Project 1️⃣ Clone the repository git clone https://github.com/Mozammil-Ansary/Sales_Analysis
